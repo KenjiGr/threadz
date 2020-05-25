@@ -27,7 +27,7 @@ class Directory extends React.Component {
             },
             {
                 title: 'Other Jerseys',
-                imageUrl: 'https://images.unsplash.com/photo-1555356109-872a9d903d5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
+                imageUrl: 'https://images.unsplash.com/photo-1466554735730-6281a8638806?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
                 size: 'large',
                 id: 4,
                 linkUrl: 'other',
